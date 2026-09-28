@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f82f182f2f891ac7a1964282",
+  "owner": "kkhyjvctj",
+  "repo": "page-dd16111c60c1cf1244789188",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dd16111c60c1cf1244789188",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "77d45310e3749912ed78222759e549f16776f3829fed9d8c46130b2b40710d08",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN提供安全稳定的网络加速服务，帮助用户畅享高速互联网连接。",
+          "AI_DESCRIPTION": "魔戒VPN提供安全稳定的网络加速服务，帮助用户畅享高速互联网连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n    body {\n      font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n      margin: 0;\n      padding: 0;\n      background-color: #f8f9fa;\n      color: #333;\n      line-height: 1.6;\n    }\n    main {\n      max-width: 1200px;\n      margin: 0 auto;\n      padding: 20px;\n    }\n    header {\n      background: linear-gradient(to right, #0A2540, #1E3A5F);\n      color: #fff;\n      padding: 15px 0;\n      position: sticky;\n      top: 0;\n      z-index: 100;\n    }\n    .container {\n      display: flex;\n      justify-content: space-between;\n      align-items: center;\n      max-width: 1200px;\n      margin: 0 auto;\n      padding: 0 20px;\n    }\n    .logo {\n      font-size: 28px;\n      font-weight: bold;\n      color: #00BFFF;\n      text-decoration: none;\n    }\n    nav a {\n      color: #fff;\n      text-decoration: none;\n      margin-left: 30px;\n      font-size: 16px;\n    }\n    .nav-links {\n      display: flex;\n    }\n    section {\n      margin-bottom: 60px;\n    }\n    h1 {\n      font-size: 2.8rem;\n      color: #0A2540;\n      margin-bottom: 20px;\n    }\n    h2 {\n      color: #0A2540;\n      font-size: 2rem;\n      border-bottom: 3px solid #00BFFF;\n      padding-bottom: 10px;\n      margin-bottom: 20px;\n    }\n    .intro {\n      max-width: 800px;\n      font-size: 1.1rem;\n    }\n    .usage {\n      background: #f0f8ff;\n      padding: 25px;\n      border-radius: 8px;\n      border-left: 6px solid #00BFFF;\n    }\n    .operation {\n      background: #f8f9fa;\n      padding: 25px;\n      border-radius: 8px;\n    }\n    .faq {\n      display: flex;\n      flex-direction: column;\n      gap: 15px;\n    }\n    details {\n      background: white;\n      border: 1px solid #ddd;\n      border-radius: 6px;\n      padding: 15px;\n    }\n    summary {\n      font-weight: bold;\n      cursor: pointer;\n      font-size: 1.1rem;\n      color: #0A2540;\n    }\n    .plans-section {\n      background: #f8f9fa;\n      padding: 30px;\n      border-radius: 10px;\n    }\n    .plans-grid {\n      display: grid;\n      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n      gap: 20px;\n    }\n    .plan-card {\n      background: white;\n      border: 2px solid #0A2540;\n      border-radius: 8px;\n      padding: 25px;\n      transition: transform 0.3s;\n    }\n    .plan-card:hover {\n      transform: translateY(-5px);\n    }\n    .plan-card.featured {\n      border-color: #00BFFF;\n      box-shadow: 0 8px 16px rgba(0, 212, 255, 0.2);\n    }\n    .plan-name {\n      font-size: 1.5rem;\n      color: #0A2540;\n      margin-bottom: 10px;\n    }\n    .plan-price {\n      font-size: 2rem;\n      color: #0A2540;\n      font-weight: bold;\n    }\n    .plan-features {\n      list-style: none;\n      padding: 0;\n      margin: 20px 0;\n    }\n    .plan-features li {\n      padding: 8px 0;\n      border-bottom: 1px solid #eee;\n    }\n    .plan-features li:last-child {\n      border-bottom: none;\n    }\n    .plan-features li::before {\n      content: \"✓\";\n      color: #00BFFF;\n      margin-right: 8px;\n    }\n    .footer {\n      background: #0A2540;\n      color: #fff;\n      text-align: center;\n      padding: 30px;\n      margin-top: 60px;\n    }\n    @media (max-width: 768px) {\n      h1 {\n        font-size: 2rem;\n      }\n      .nav-links {\n        display: none;\n      }\n    }\n    </style>\n\n\n<main>\n<header>\n<div class=\"container\">\n<a href=\"#\" class=\"logo\">魔戒</a>\n<div class=\"nav-links\">\n<a href=\"#intro\">首页</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#faq\">FAQ</a>\n<a href=\"#clients\">合作伙伴</a>\n</div>\n</div>\n</header>\n<section id=\"intro\">\n<h1>魔戒</h1>\n<div class=\"intro\">\n<p>魔戒VPN是一款专注于提供安全、稳定网络连接的专业服务，帮助用户实现更顺畅的互联网体验。</p>\n</div>\n</section>\n<section id=\"usage\">\n<h2>使用场景</h2>\n<div class=\"usage\">\n<p>魔戒VPN适用于日常上网、在线娱乐、远程工作以及需要突破地域限制的用户。通过先进的节点优化，确保您在任何环境下都能获得最佳的网络性能。</p>\n</div>\n</section>\n<section id=\"operation\">\n<h2>操作说明</h2>\n<div class=\"operation\">\n<p>订阅魔戒VPN后，您可以选择合适的套餐进行支付，然后通过我们的客户端进行安装和配置。连接到合适的节点，即可享受加速服务。</p>\n</div>\n</section>\n<section id=\"plans\">\n<h2>套餐对比</h2>\n<div class=\"plans-section\">\n<div class=\"plans-grid\">\n{{PLANS_HTML}}\n</div>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq\">\n<details>\n<summary>什么是魔戒VPN？</summary>\n<p>魔戒VPN是一款专注于网络加速和安全连接的专业服务，帮助用户实现更顺畅的互联网体验。</p>\n</details>\n<details>\n<summary>魔戒VPN适合哪些使用场景？</summary>\n<p>魔戒VPN适用于日常上网、在线娱乐、远程工作以及需要突破地域限制的用户。</p>\n</details>\n<details>\n<summary>如何订阅魔戒VPN？</summary>\n<p>您可以选择合适的套餐进行订阅，完成支付后立即享受服务。</p>\n</details>\n<details>\n<summary>魔戒VPN支持哪些设备？</summary>\n<p>魔戒VPN支持多台设备同时在线连接，具体取决于您的套餐选择。</p>\n</details>\n<details>\n<summary>如何获取客户端？</summary>\n<p>您可以通过我们的平台订阅后获取客户端的安装和使用指南。</p>\n</details>\n</div>\n</section>\n<section id=\"clients\">\n<h2>合作伙伴</h2>\n{{CLIENTS_HTML}}\n</section>\n<footer>\n<p>© 2024 魔戒VPN 保留所有权利</p>\n</footer>\n</main>\n\n",
+          "hash": "7e9c9286299e5f90195ae2e2c1e3f48f2ad708823c16435460b735d6f0fd5f45",
+          "seo": {
+            "title": "魔戒VPN - 稳定VPN加速器 | 官网",
+            "keywords": "魔戒VPN, VPN, 机场, 加速器, 客户端下载",
+            "description": "魔戒VPN提供安全稳定的网络加速服务，帮助用户畅享高速互联网连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tzlfpu.cn",
+    "host": "web.tzlfpu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "tzlfpu.cn",
+      "url": "https://tzlfpu.cn/",
+      "label": "快鱼(Fastfish)",
+      "apex": "tzlfpu.cn",
+      "kind": null,
+      "identity": "pokiu9728/page-b2303d488232ddebcda55368"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fe888a73cb82e9157a2d8f083705487079548136a4afa69679908bd5a481c646",
+    "sitemap.xml": "0d19c2cd7501e4066eb4c7d468672630635c280e6f2e3468183ef6a8935cfc91",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "110b5da8523b4c82400bfb3b425d2e846f9644aa8a8acb4982698856599cbfea",
+    "robots.txt": "0fc4c9a4eae456dc37f5019cb77cf838996b8d160948a7d1f4801e50f1e7380d",
+    "b06db215e46e7a1d12ba7123d999e331.txt": "cf4da5e1bf045b5cefc81b5803b34265eaa97e8eec560376ffce5500f6261846"
+  },
+  "revision": "d0543e80ea56db622293954531e3a9f990e95e81cd0160eabba8d26fe5b557ab"
+}
